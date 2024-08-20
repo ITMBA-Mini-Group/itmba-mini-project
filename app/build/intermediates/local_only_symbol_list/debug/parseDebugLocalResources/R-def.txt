@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnAdd
+id btnDelete
+id btnModify
+id edtName
+id edtPhonenumber
+id edtStdntNum
+id edtSurname
+id listStudents
+id main
+id nameView
+id phoneNumberView
+id stdntNumView
+id surnameView
+id textView2
+id textView3
+layout activity_main
+layout list_item_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.GroupMiniProject
+style Theme.GroupMiniProject
+xml backup_rules
+xml data_extraction_rules
