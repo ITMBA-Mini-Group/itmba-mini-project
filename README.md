@@ -1,1 +1,0 @@
-# itmba-mini-project

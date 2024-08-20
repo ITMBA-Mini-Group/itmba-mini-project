@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "group mini project"
+rootProject.name = "GroupMiniProject"
 include(":app")
