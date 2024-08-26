@@ -12,4 +12,4 @@
 - 
 ## Due Date
 
-Project due date: **August 25, 202
+Project due date: **August 25, 2024
